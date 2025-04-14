@@ -1,20 +1,19 @@
 ## myfirstcode
-# 📊 Global Superstore Sales Dashboard 
+#  Global Superstore Sales Dashboard 
 
 This Power BI dashboard presents a comprehensive analysis of **Global Superstore's** sales performance for the year **2011**. 
 The goal is to uncover key insights into sales, profit, customer behavior, and shipping efficiency, enabling data-driven decisions.
 
-![Dashboard Preview](./Globalstore%20power%20bi%20dashboard.PNG)
 
 ---
 
 ## 📌 Key Highlights
 
-- ✅ **17 Sub-Categories** analyzed across various regions and segments
-- 💰 **$12.64M in Total Sales** and **$1.47M in Total Profits**
-- 🚚 **Avg Delivery Time:** 3.97 days
-- 📉 **Loss Analysis:** Identified profit loss drivers by discount and product type
-- 🛍️ **Top 10 Customers** ranked by sales and profitability
+-  **17 Sub-Categories** analyzed across various regions and segments
+-  **$12.64M in Total Sales** and **$1.47M in Total Profits**
+-  **Avg Delivery Time:** 3.97 days
+-  **Loss Analysis:** Identified profit loss drivers by discount and product type
+-  **Top 10 Customers** ranked by sales and profitability
 
 ---
 
@@ -29,11 +28,11 @@ The goal is to uncover key insights into sales, profit, customer behavior, and s
 ### 👥 Segment Profit Distribution
 - The **Consumer segment** contributed the highest profit share (51%).
 
-### 📦 Shipping Mode Efficiency
+###  Shipping Mode Efficiency
 - **Same Day delivery** had the fastest turnaround (0.04 days), but the **Standard Class** mode brought in the highest profits.
 - There's a clear trade-off between **speed and profitability**.
 
-### 🎯 Profit Loss by Discount
+###  Profit Loss by Discount
 - Orders with **high discount rates (>20%)** often resulted in **negative profits**, especially within the *Furniture* category.
 
 ---
@@ -48,12 +47,6 @@ The goal is to uncover key insights into sales, profit, customer behavior, and s
 
 ---
 
-## 📁 Files
-
-| File | Description |
-|------|-------------|
-| `Globalstore power bi dashboard.PNG` | Power BI dashboard preview |
-| `GlobalStore.pbix` *(Optional)* | Power BI file  |
 
 ---
 
